@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 27.0.1//EN
+N:Davis;Anthony ;Hayes;;II
+FN:Anthony  Hayes Davis II
+ORG:The Chapelgate in Ten Hills;
+TITLE:Co-Owner
+item1.EMAIL;type=INTERNET;type=pref:adavis@thechapelgate.com
+item1.X-ABLabel:Business Email
+TEL;type=CELL;type=VOICE;type=pref:(410) 905-1229
+END:VCARD
